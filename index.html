@@ -1,11 +1,18 @@
 <!DOCTYPE html>
 <html lang="ja">
 <head>
-  <meta charset="UTF-8">
-  <title>私のサイト</title>
+  <meta charset="UTF-8" />
+  <title>おすすめ作品ランダム表示</title>
+  <link rel="stylesheet" href="style.css" />
 </head>
 <body>
-  <h1>ようこそ！</h1>
-  <p>これはGitHub Pagesで公開しているサイトです。</p>
+  <div class="container">
+    <h1>今日のおすすめ作品</h1>
+    <button id="show-button">1つ表示する</button>
+    <div id="result" class="result">
+      <p>↓ ここに表示されます ↓</p>
+    </div>
+  </div>
+  <script src="script.js"></script>
 </body>
 </html>
