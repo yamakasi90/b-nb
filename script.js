@@ -9,6 +9,7 @@ function showRandomItem(items) {
   resultDiv.innerHTML = `
     <h2>${random.title}</h2>
     <img src="${random.image}" alt="${random.title}" />
+    <p>${random.description}</p>
     <p><a href="${random.link}" target="_blank">詳細を見る</a></p>
   `;
 }
