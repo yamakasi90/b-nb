@@ -2,16 +2,13 @@
   {
     "title": "映画タイトル1",
     "image": "https://placehold.jp/300x400.png?text=Movie+1",
-    "link": "https://example.com/movie1"
+    "link": "https://example.com/movie1",
+    "description": "これは感動的なストーリーで、多くの人に愛されている作品です。"
   },
   {
     "title": "映画タイトル2",
     "image": "https://placehold.jp/300x400.png?text=Movie+2",
-    "link": "https://example.com/movie2"
-  },
-  {
-    "title": "映画タイトル3",
-    "image": "https://placehold.jp/300x400.png?text=Movie+3",
-    "link": "https://example.com/movie3"
+    "link": "https://example.com/movie2",
+    "description": "壮大な冒険と友情の物語で、映画ファン必見の一本。"
   }
 ]
